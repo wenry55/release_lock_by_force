@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a99b7567-c591-44a4-bec5-cbad80a26965" solutionId="a99b7567-c591-44a4-bec5-cbad80a26965" resetWebServer="false" sharePointProductVersion="15.0" name="ReleaseLockByForce" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a99b7567-c591-44a4-bec5-cbad80a26965" solutionId="a99b7567-c591-44a4-bec5-cbad80a26965" resetWebServer="false" sharePointProductVersion="16.0" name="ReleaseLockByForce" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
   <projectItems>
     <projectItemReference itemId="76656b72-1cd8-4958-988b-2c224bba1c38" />
   </projectItems>
